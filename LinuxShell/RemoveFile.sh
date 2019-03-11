@@ -21,3 +21,4 @@ mvfile(){
 
 root_dir_file='/root/aaa'
 mvfile $root_dir_file
+2
